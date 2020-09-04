@@ -1,0 +1,63 @@
+## version $VER: keymapswitcher_docky.catalog 1.1 (21.11.2013)
+## codeset 4
+## language french
+;
+;
+MSG_DOCKY_MODE
+Mode
+;
+MSG_DOCKY_POPUP
+Contextuel
+;
+MSG_DOCKY_WINDOW
+Fenêtre
+;
+MSG_DOCKY_SETTINGS 
+Réglages...
+;
+MSG_OK_GAD
+OK
+;
+MSG_ERROR_NO_INPUTPREFS
+Ne trouve pas  'input.prefs', la disposition des touches pardéfaut' (default keymap) sera utilisée.\n
+;
+MSG_ERROR_SCANNING 
+Erreur lors du scanning de 'KEYMAPS:'
+;
+MSG_ERROR_NOKEYMAP2
+KEYMAP2 type d'outil non défini!\n
+;
+MSG_PREFS_WINDOW
+KeymapSwitcher: Réglages
+;
+MSG_PREFS_TITLE_KEYMAP
+ Keymap
+;
+MSG_PREFS_TITLE_DESC
+ Description
+;
+MSG_PREFS_GROUP1
+Keymap d'entrée préférée 
+;
+MSG_PREFS_GROUP2
+Keymap2 (type d'outil)
+;
+MSG_PREFS_BTN_SAVE
+_Sauver
+;
+MSG_PREFS_BTN_USE
+_Utiliser
+;
+MSG_PREFS_BTN_CANCEL
+_Annuler
+;
+; Keymap commandline strings
+MSG_CMDLINE_CHANGING
+Le keymap sera changé en '%s'...\n
+;
+MSG_CMDLINE_NEWKEYMAP
+Le nouveau keymap: (%s) %s | %s\n
+;
+MSG_CMDLINE_FAILED
+L'utilisation du keymap '%s' a raté!\n
+;

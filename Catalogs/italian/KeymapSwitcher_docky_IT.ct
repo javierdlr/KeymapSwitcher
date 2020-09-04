@@ -1,0 +1,130 @@
+## version $VER: KeymapSwitcher_docky.catalog 1.3 (27.04.2015)
+## codeset 0
+## language italiano
+## chunk AUTH Translated by Samir Hawamdeh (http://www.betatesting.it/backforthefuture)
+;
+; ATO Italia
+; Compiled with FlexCat 2.17 PPC (AmigaOS4)
+; Italian translation of KeymapSwitcher_docky
+;
+; Traduzione italiana di KeymapSwitcher_docky
+; To compile with FlexCat: flexcat KeymapSwitcher_docky.cd KeymapSwitcher_docky.ct catalog=KeymapSwitcher_docky.catalog
+;
+MSG_DOCKY_MODE
+Modalità
+; Mode
+;
+MSG_DOCKY_POPUP
+Menu
+; Menu
+;
+MSG_DOCKY_WINDOW
+Finestra
+; Window
+;
+MSG_DOCKY_SETTINGS
+Impostazioni...
+; Settings...
+;
+MSG_OK_GAD
+Ok
+; OK
+;
+MSG_ERROR_NO_INPUTPREFS
+\033cAttenzione: 'input.prefs' non trovato.\nVerrà usato il keymap predefinito.
+; 'input.prefs' not found, using default keymap.
+;
+MSG_ERROR_SCANNING
+Errore nella scansione 'KEYMAPS:'
+; Error scanning 'KEYMAPS:'
+;
+MSG_ERROR_NOKEYMAP2
+Il tooltype per il KEYMAP2 non è definito!
+; KEYMAP2 tooltype not defined!
+;
+MSG_ERROR_KEYMAP
+Il keymap '%s' non esiste!
+; Keymap '%s' doesn't exists!
+;
+MSG_ERROR_CANTCHANGE
+Impossibile impostare il keymap in '%s'!
+; Failed to set '%s' keymap!
+;
+MSG_PREFS_WINDOW
+KeymapSwitcher: Impostazioni
+; KeymapSwitcher: Settings
+;
+MSG_PREFS_TITLE_KEYMAP
+ Keymap
+;  Keymap
+;
+MSG_PREFS_TITLE_DESC
+ Descrizione
+;  Description
+;
+MSG_PREFS_GROUP1
+Keymap predefinito (Preferenze Input)
+; Main Keymap (Input Prefs.)
+;
+MSG_PREFS_GROUP2
+Keymap secondario (KEYMAP2)
+; Secondary Keymap (KEYMAP2)
+;
+MSG_PREFS_BTN_SAVE
+_Salva
+; _Save
+;
+MSG_PREFS_BTN_USE
+_Usa
+; _Use
+;
+MSG_PREFS_BTN_CANCEL
+_Annulla
+; _Cancel
+;
+MSG_COMMODITY_DESC
+Scambia keymap in due click
+; Swap keymap in an easy way
+;
+MSG_COMMODITY_HK1
+Hotkey:
+; Hotkey:
+;
+MSG_COMMODITY_HK1_INVALID
+Hotkey non valido.
+; Invalid hotkey.
+;
+MSG_PREFS_GROUP3
+Scambio keymap
+; Swap Keymaps
+;
+MSG_PREFS_INPUTPREFS
+_Modifica...
+; _Modify...
+;
+MSG_PREFS_NOTE
+(riavvia KMS per rendere effettive le modifiche) \0
+; (re-run KMS to reflect this change) \0
+;
+MSG_KM2_USING
+KEYMAP2 impostato su
+; KEYMAP2 set to
+;
+; MSG_KM2_CHANGED
+; modificato
+; changed
+;
+; Keymap commandline strings
+;
+MSG_CMDLINE_CHANGING
+Keymap modificato in '%s'...\n
+; Changing keymap to '%s'...\n
+;
+MSG_CMDLINE_NEWKEYMAP
+Nuovo keymap: (%s) %s | %s\n
+; New keymap: (%s) %s | %s\n
+;
+MSG_CMDLINE_FAILED
+Impossibile impostare il keymap in '%s'!\n
+; Failed to set '%s' keymap!\n
+;

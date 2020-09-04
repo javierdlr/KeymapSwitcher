@@ -1,0 +1,63 @@
+## version $VER: keymapswitcher_docky.catalog 1.1 (21.11.2013)
+## codeset 4
+## language dutch
+;
+;
+MSG_DOCKY_MODE
+Mode
+;
+MSG_DOCKY_POPUP
+PopUp
+;
+MSG_DOCKY_WINDOW
+Venster
+;
+MSG_DOCKY_SETTINGS
+Instellingen...
+;
+MSG_OK_GAD
+OK
+;
+MSG_ERROR_NO_INPUTPREFS
+Vind 'input.prefs' niet, 'plaatsing toetsen bij verstek' (default keymap) zal worden gebruikt.\n
+;
+MSG_ERROR_SCANNING
+Fout bij het scannen van 'KEYMAPS:'
+;
+MSG_ERROR_NOKEYMAP2
+KEYMAP2 type werktuig niet gedefinieerd!\n
+;
+MSG_PREFS_WINDOW
+KeymapSwitcher: Instellingen
+;
+MSG_PREFS_TITLE_KEYMAP
+ Keymap
+;
+MSG_PREFS_TITLE_DESC
+ Beschrijving
+;
+MSG_PREFS_GROUP1
+Input Voorkeur Keymap
+;
+MSG_PREFS_GROUP2
+Keymap2 (tooltype)
+;
+MSG_PREFS_BTN_SAVE
+_Bewaar
+;
+MSG_PREFS_BTN_USE
+_Gebruik
+;
+MSG_PREFS_BTN_CANCEL
+_Annuleer
+;
+; Keymap commandline strings
+MSG_CMDLINE_CHANGING
+Wijzig gebruikte keymap naar '%s'...\n
+;
+MSG_CMDLINE_NEWKEYMAP
+Nieuwe keymap: (%s) %s | %s\n
+;
+MSG_CMDLINE_FAILED
+Wijzigen naar '%s' keymap mislukte!\n
+;

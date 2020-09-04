@@ -1,0 +1,81 @@
+## version $VER: keymapswitcher_docky.catalog 1.1 (21.11.2013)
+## codeset 4
+## language spanish
+;
+MSG_DOCKY_MODE
+Modo
+; Mode
+;
+MSG_DOCKY_POPUP
+Menú
+; PopUp
+;
+MSG_DOCKY_WINDOW
+Ventana
+; Window
+;
+MSG_DOCKY_SETTINGS
+Ajustes...
+; Settings...
+;
+MSG_OK_GAD
+Aceptar
+; OK
+;
+MSG_ERROR_NO_INPUTPREFS
+'input.prefs' no encontrado, usando teclado por omisión.\n
+; 'input.prefs' not found, using default keymap.\n
+;
+MSG_ERROR_SCANNING
+Error al comprobar 'KEYMAPS:'
+; Error scanning 'KEYMAPS:'
+;
+MSG_ERROR_NOKEYMAP2
+¡Herramienta 'KEYMAP2' no definida en el icono!
+; KEYMAP2 tooltype not defined!\n
+;
+MSG_PREFS_WINDOW
+KeymapSwitcher: Ajustes
+; KeymapSwitcher: Settings
+;
+MSG_PREFS_TITLE_KEYMAP
+ Teclado
+;  Keymap
+;
+MSG_PREFS_TITLE_DESC
+ Descripción
+;  Description
+;
+MSG_PREFS_GROUP1 
+Teclado De 'Prefs. de Input'
+; Input Preferences Keymap
+;
+MSG_PREFS_GROUP2
+Teclado Secundario (KEYMAP2)
+; Keymap2 (tooltype)
+;
+MSG_PREFS_BTN_SAVE
+_Guardar
+; _Save
+;
+MSG_PREFS_BTN_USE
+_Usar
+; _Use
+;
+MSG_PREFS_BTN_CANCEL
+_Cancelar
+;_Cancel
+;
+; Keymap commandline strings
+MSG_CMDLINE_CHANGING
+Cambiando teclado a '%s'...\n
+; Changing keymap to '%s'...\n
+;
+MSG_CMDLINE_NEWKEYMAP
+Nuevo teclado: (%s) %s | %s\n
+; New keymap: (%s) %s | %s\n
+;
+MSG_CMDLINE_FAILED
+¡Fallo al cambiar teclado a '%s'!\n
+; Failed to change to '%s' keymap!\n
+;
