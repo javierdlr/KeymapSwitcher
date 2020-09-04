@@ -1,0 +1,118 @@
+## version $VER: keymapswitcher_docky.catalog 1.2 (15.04.2014)
+## language spanish
+## codeset 4
+;
+MSG_DOCKY_MODE
+Modo
+; Mode
+;
+MSG_DOCKY_POPUP
+Menú
+; PopUp
+;
+MSG_DOCKY_WINDOW
+Ventana
+; Window
+;
+MSG_DOCKY_SETTINGS
+Ajustes...
+; Settings...
+;
+MSG_OK_GAD
+Aceptar
+; OK
+;
+MSG_ERROR_NO_INPUTPREFS
+\033c'input.prefs' no encontrado,\n\
+usando teclado por omisión.
+; 'input.prefs' not found, using default keymap.
+;
+MSG_ERROR_SCANNING
+Error al comprobar 'KEYMAPS:'
+; Error scanning 'KEYMAPS:'
+;
+MSG_ERROR_NOKEYMAP2
+¡Argumento 'KEYMAP2' no definido en el icono!
+; KEYMAP2 tooltype not defined!
+;
+MSG_ERROR_KEYMAP
+¡Teclado '%s' no existe!
+; Keymap '%s' doesn't exists!
+;
+MSG_ERROR_CANTCHANGE
+¡Fallo al establecer teclado '%s'!
+; Failed to set '%s' keymap!
+;
+MSG_PREFS_WINDOW
+KeymapSwitcher: Ajustes
+; KeymapSwitcher: Settings
+;
+MSG_PREFS_TITLE_KEYMAP
+ Teclado
+;  Keymap
+;
+MSG_PREFS_TITLE_DESC
+ Descripción
+;  Description
+;
+MSG_PREFS_GROUP1
+Teclado Principal (Prefs. de Input)
+; Main Keymap (Input Prefs.)
+;
+MSG_PREFS_GROUP2
+Teclado Secundario (KEYMAP2)
+; Secondary Keymap (KEYMAP2)
+;
+MSG_PREFS_BTN_SAVE
+_Guardar
+; _Save
+;
+MSG_PREFS_BTN_USE
+_Usar
+; _Use
+;
+MSG_PREFS_BTN_CANCEL
+_Cancelar
+; _Cancel
+;
+MSG_COMMODITY_DESC
+Cambiar teclado de forma fácil
+; Switch keymap in an easy way
+;
+MSG_COMMODITY_HK1
+Tecla rápida:
+; Hotkey:
+;
+MSG_COMMODITY_HK1_INVALID
+Tecla rápida no válida.
+; Invalid hotkey.
+;
+MSG_PREFS_GROUP3
+Intercambiar Teclados
+; Swap Keymaps
+;
+MSG_PREFS_INPUTPREFS
+Modificar...
+; Modify...
+;
+MSG_PREFS_NOTE
+(reiniciar KMS para reflejar este cambio) \0
+; (re-run KMS to reflect this change) \0
+;
+MSG_KM2_USING
+KEYMAP2 establecido como
+;KEYMAP2 set to
+;
+;
+MSG_CMDLINE_CHANGING
+Cambiando teclado a '%s'...\n
+; Changing keymap to '%s'...\n
+;
+MSG_CMDLINE_NEWKEYMAP
+Nuevo teclado: (%s) %s | %s\n
+; New keymap: (%s) %s | %s\n
+;
+MSG_CMDLINE_FAILED
+¡Fallo al establecer teclado '%s'!\n
+; Failed to change to '%s' keymap!\n
+;

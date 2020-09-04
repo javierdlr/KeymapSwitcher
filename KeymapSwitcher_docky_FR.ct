@@ -1,0 +1,118 @@
+## version $VER: KeymapSwitcher_docky.catalog 1.2 (15.04.2014)
+## language french
+## codeset 0
+;
+MSG_DOCKY_MODE
+Mode
+; Mode
+;
+MSG_DOCKY_POPUP
+Contextuel
+; PopUp
+;
+MSG_DOCKY_WINDOW
+Fenêtre
+; Window
+;
+MSG_DOCKY_SETTINGS
+Réglages...
+; Settings...
+;
+MSG_OK_GAD
+OK
+; OK
+;
+MSG_ERROR_NO_INPUTPREFS
+\033cNe trouve pas 'input.prefs', la disposition des\n\
+touches pardéfaut (default keymap) sera utilisée.
+; 'input.prefs' not found, using default keymap.
+;
+MSG_ERROR_SCANNING
+Erreur lors du scanning de 'KEYMAPS:'
+; Error scanning 'KEYMAPS:'
+;
+MSG_ERROR_NOKEYMAP2
+KEYMAP2 type d'outil non défini!
+; KEYMAP2 tooltype not defined!
+;
+MSG_ERROR_KEYMAP
+Keymap '%s' n'existe pas!
+; Keymap '%s' doesn't exists!
+;
+MSG_ERROR_CANTCHANGE
+N'a pu imposer la keymap '%s'!
+; Failed to set '%s' keymap!
+;
+MSG_PREFS_WINDOW
+KeymapSwitcher: Réglages
+; KeymapSwitcher: Settings
+;
+MSG_PREFS_TITLE_KEYMAP
+ Keymap
+;  Keymap
+;
+MSG_PREFS_TITLE_DESC
+ Description
+;  Description
+;
+MSG_PREFS_GROUP1
+Keymap principale (Prefs d'entrée.)
+; Main Keymap (Input Prefs.)
+;
+MSG_PREFS_GROUP2
+Keymap Secondaire (KEYMAP2)
+; Secondary Keymap (KEYMAP2)
+;
+MSG_PREFS_BTN_SAVE
+_Sauver
+; _Save
+;
+MSG_PREFS_BTN_USE
+_Utiliser
+; _Use
+;
+MSG_PREFS_BTN_CANCEL
+_Annuler
+; _Cancel
+;
+MSG_COMMODITY_DESC
+Echangez les keymap facilement
+; Swap keymap in an easy way
+;
+MSG_COMMODITY_HK1
+Raccourci:
+; Hotkey:
+;
+MSG_COMMODITY_HK1_INVALID
+Raccourci invalide.
+; Invalid hotkey.
+;
+MSG_PREFS_GROUP3
+Echangez Keymaps
+; Swap Keymaps
+;
+MSG_PREFS_INPUTPREFS
+Modifiez...
+; Modify...
+;
+MSG_PREFS_NOTE
+(re-lancez KMS afin de valider cette modification) \0
+; (re-run KMS to reflect this change) \0
+;
+MSG_KM2_USING
+KEYMAP2 set to
+; KEYMAP2 set to
+;
+;
+MSG_CMDLINE_CHANGING
+Le keymap sera changé en '%s'...\n
+; Changing keymap to '%s'...\n
+;
+MSG_CMDLINE_NEWKEYMAP
+Le nouveau keymap: (%s) %s | %s\n
+; New keymap: (%s) %s | %s\n
+;
+MSG_CMDLINE_FAILED
+L'imposition du keymap '%s' a raté!
+; Failed to set '%s' keymap!\n
+;

@@ -1,0 +1,114 @@
+## version $VER: KeymapSwitcher_docky.catalog 1.2 (15.04.2014)
+## language dutch
+## codeset 0
+;
+MSG_DOCKY_MODE
+Mode
+; Mode
+;
+MSG_DOCKY_POPUP
+PopUp
+; PopUp
+;
+MSG_DOCKY_WINDOW
+Venster
+; Window
+;
+MSG_DOCKY_SETTINGS
+Instellingen...
+; Settings...
+;
+MSG_OK_GAD
+OK
+; OK
+;
+MSG_ERROR_NO_INPUTPREFS
+\033cVind 'input.prefs' niet, 'plaatsing toetsen bij verstek'\n\
+(default keymap) zal worden gebruikt.
+; 'input.prefs' not found, using default keymap.
+;
+MSG_ERROR_SCANNING
+Fout bij het scannen van 'KEYMAPS:'
+; Error scanning 'KEYMAPS:'
+;
+MSG_ERROR_NOKEYMAP2
+KEYMAP2 type werktuig niet gedefinieerd!
+; KEYMAP2 tooltype not defined!
+;
+MSG_ERROR_KEYMAP
+Keymap '%s' bestaat niet!
+; Keymap '%s' doesn't exists!
+;
+MSG_ERROR_CANTCHANGE
+Keuze van keymap '%s' lukte niet!
+; Failed to set '%s' keymap!
+;
+MSG_PREFS_WINDOW
+KeymapSwitcher: Instellingen
+; KeymapSwitcher: Settings
+;
+MSG_PREFS_TITLE_KEYMAP
+ Keymap
+;  Keymap
+;
+MSG_PREFS_TITLE_DESC
+ Beschrijving
+;  Description
+;
+MSG_PREFS_GROUP1
+Voorkeusr Keymap (input Prefs.)
+; Main Keymap (Input Prefs.)
+;
+MSG_PREFS_GROUP2
+Tweede Keymap (KEYMAP2)
+; Secondary Keymap (KEYMAP2)
+;
+MSG_PREFS_BTN_SAVE
+_Bewaar
+; _Save
+;
+MSG_PREFS_BTN_USE
+_Gebruik
+; _Use
+;
+MSG_PREFS_BTN_CANCEL
+_Annuleer
+; _Cancel
+;
+MSG_COMMODITY_DESC
+Verwissel keymap gemakkelijk
+; Swap keymap in an easy way
+;
+MSG_COMMODITY_HK1
+Sneltoets:
+; Hotkey:
+;
+MSG_COMMODITY_HK1_INVALID
+Ongeldige sneltoets.
+; Invalid hotkey.
+;
+MSG_PREFS_GROUP3
+Verwissel Keymaps
+; Swap Keymaps
+;
+MSG_PREFS_INPUTPREFS
+Wijzig...
+; Modify...
+;
+MSG_PREFS_NOTE
+(herstart KMS om de wijziging door te voeren) \0
+; (re-run KMS to reflect this change) \0
+;
+;
+MSG_CMDLINE_CHANGING
+Wijzig gebruikte keymap naar '%s'...\n
+; Changing keymap to '%s'...\n
+;
+MSG_CMDLINE_NEWKEYMAP
+Nieuwe keymap: (%s) %s | %s\n
+; New keymap: (%s) %s | %s\n
+;
+MSG_CMDLINE_FAILED
+Wijzigen naar '%s' keymap mislukte!\n
+; Failed to set '%s' keymap!\n
+;

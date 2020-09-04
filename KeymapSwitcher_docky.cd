@@ -1,0 +1,92 @@
+; $VER: KeymapSwitcher_docky.cd 1.2 (15.04.2014)
+;
+;
+MSG_DOCKY_MODE (1//)
+Mode
+;
+MSG_DOCKY_POPUP (2//)
+Menu
+;
+MSG_DOCKY_WINDOW (3//)
+Window
+;
+MSG_DOCKY_SETTINGS (4//)
+Settings...
+;
+MSG_OK_GAD (5//)
+OK
+;
+MSG_ERROR_NO_INPUTPREFS (6//)
+'input.prefs' not found, using default keymap.
+;
+MSG_ERROR_SCANNING (7//)
+Error scanning 'KEYMAPS:'
+;
+MSG_ERROR_NOKEYMAP2 (8//)
+KEYMAP2 tooltype not defined!
+;
+MSG_ERROR_KEYMAP (9//100)
+Keymap '%s' doesn't exists!
+;
+MSG_ERROR_CANTCHANGE (10//100)
+Failed to set '%s' keymap!
+;
+MSG_PREFS_WINDOW (11//)
+KeymapSwitcher: Settings
+;
+MSG_PREFS_TITLE_KEYMAP (12//)
+ Keymap
+;
+MSG_PREFS_TITLE_DESC (13//)
+ Description
+;
+MSG_PREFS_GROUP1 (14//)
+Main Keymap (Input Prefs.)
+;
+MSG_PREFS_GROUP2 (15//)
+Secondary Keymap (KEYMAP2)
+;
+MSG_PREFS_BTN_SAVE (16//)
+_Save
+;
+MSG_PREFS_BTN_USE (17//)
+_Use
+;
+MSG_PREFS_BTN_CANCEL (18//)
+_Cancel
+;
+MSG_COMMODITY_DESC (19//)
+Swap keymap in an easy way
+;
+MSG_COMMODITY_HK1 (20//)
+Hotkey:
+;
+MSG_COMMODITY_HK1_INVALID (21//)
+Invalid hotkey.
+;
+MSG_PREFS_GROUP3 (22//)
+Swap Keymaps
+;
+MSG_PREFS_INPUTPREFS (23//)
+_Modify...
+;
+MSG_PREFS_NOTE (24//)
+(re-run KMS to reflect this change) \0
+;
+MSG_KM2_USING (25//)
+KEYMAP2 set to
+;
+;MSG_KM2_CHANGED (26//)
+;changed
+;
+;
+; Keymap commandline strings
+MSG_CMDLINE_CHANGING (1000//)
+Changing keymap to '%s'...\n
+;
+MSG_CMDLINE_NEWKEYMAP (1001//)
+New keymap: (%s) %s | %s\n
+;
+MSG_CMDLINE_FAILED (1002//)
+Failed to set '%s' keymap!\n
+;
